@@ -1,0 +1,7 @@
+﻿  cubemapscene.cpp
+e:\shadersassignment\shadersassignment\teapotad\teapotad\cubemapscene.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+e:\shadersassignment\shadersassignment\teapotad\teapotad\cubemapscene.cpp(62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\shadersassignment\shadersassignment\teapotad\teapotad\cubemapscene.cpp(273): warning C4305: '+=': truncation from 'double' to 'float'
+e:\shadersassignment\shadersassignment\teapotad\teapotad\cubemapscene.cpp(277): warning C4305: '-=': truncation from 'double' to 'float'
+e:\shadersassignment\shadersassignment\teapotad\teapotad\cubemapscene.cpp(281): warning C4305: '=': truncation from 'double' to 'float'
+  TeapotAD.vcxproj -> E:\ShadersAssignment\ShadersAssignment\TeapotAD\x64\Debug\TeapotAD.exe
